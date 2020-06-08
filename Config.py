@@ -1,0 +1,9 @@
+Width = 300
+Height = 120
+Yoffset = 0
+Xoffset = -1
+Bg = "#000000"
+Fg = "#ffffff"
+TitleSize = 15
+TextSize = 10
+Time = 2
